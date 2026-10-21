@@ -9,7 +9,7 @@
 طالب ومهتم بمجال **الأمن السيبراني (Cybersecurity)**. 
 هذه المساحة هي سجلي الحي (Living Portfolio) التي أوثق فيها تطوري التقني، وأشارك فيها التحديات التي أواجهها وكيفية حلها، بالإضافة إلى المشاريع التي أعمل عليها.
 
-- 🌱 **أتعلم حالياً:** أساسيات الأمن السيبراني، حماية الشبكات، والتشفير.
+- 🌱 **أتعلم حالياً:** أساسيات الأمن السيبراني، حماية الشبكات (Networking)، والتشفير.
 - 🎯 **هدفي:** بناء أساس تقني قوي وتطبيق المفاهيم النظرية في بيئة عملية.
 - 💡 **شغفي:** فهم كيفية عمل الأنظمة، واكتشاف الثغرات، وبناء بيئة رقمية أكثر أماناً.
 
@@ -20,10 +20,11 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 *(ملاحظة: سيتم تحديث هذه القائمة باستمرار مع تقدمي في التعلم)*
