@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=150&section=header&text=Ahmed%20Jarallah&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Network%20%26%20Linux%20Enthusiast&descAlignY=55&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=header" alt="Header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Networking;Linux;TryHackMe;Building+Cyber+Foundation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ahmed+Jarallah;Networking+%26+Linux;TryHackMe+Player;Building+Cyber+Foundation" alt="Typing SVG" />
 </h1>
 
 <div align="center">
